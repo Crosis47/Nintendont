@@ -1,6 +1,8 @@
 ### Nintendont
 A Wii Homebrew Project to play GC Games on Wii and vWii on Wii U
 
+(This fork includes a fix for the recognition of Gamecube Dance Mats when connected via the Official Wii U USB Gamecube Adapter)
+
 ### Features:
 * Works on Wii and Wii U (in vWii mode)
 * Full-speed loading from a USB device or an SD card.
